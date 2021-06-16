@@ -5,7 +5,7 @@
 ## Project Description
 One of the most common problems e-shops face is knowing relevant customer preferences. The main goal is to analyze customer's purchase history to come up with a relevant product range which would optimize purchases and offers.
 
-### |           <mark style="background-color: #e3f0f7">__[<span style="color: black;">Project notebook</span>](https://nbviewer.jupyter.org/github/verkberk/Yandex100-Projects/blob/master/Product_Range_Analysis.ipynb)__</mark>              | <mark style="background-color: #f6e1d6">__[<span style="color: black;">Presentation</span>](https://github.com/verkberk/Product-Range-Analysis/blob/main/Product%20Range.pdf)__</mark>          |          <mark style="background-color: #c1eded">__[<span style="color: black;">Dashboard</span>](https://public.tableau.com/profile/verkberk#!/vizhome/ProductRange/ProductRangeDashboard)__</mark>          |
+### |           <mark style="background-color: #e3f0f7">__[<span style="color: black;">Project notebook</span>](https://nbviewer.jupyter.org/urls/drive.google.com/uc/%3Fexport=download&id=1IfLG9osfHlkMh5YmkL07bX7kYJIyucd9)__</mark>              | <mark style="background-color: #f6e1d6">__[<span style="color: black;">Presentation</span>](https://github.com/verkberk/Product-Range-Analysis/blob/main/Product%20Range.pdf)__</mark>          |          <mark style="background-color: #c1eded">__[<span style="color: black;">Dashboard</span>](https://public.tableau.com/profile/verkberk#!/vizhome/ProductRange/ProductRangeDashboard)__</mark>          |
 
 ### Main steps
 1. __Data Preprocessing__
